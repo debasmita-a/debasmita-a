@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Debasmita</h1>
 <h3 align="center">A passionate automation test engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - 🔭 I’m currently working on **building automation test scripts using Javascript with Playwright.**
 

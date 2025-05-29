@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Debasmita</h1>
 <h3 align="center">A passionate automation test engineer from India</h3>
 
-- 🔭 I’m currently working on **building automation test scripts using Javascript with Playwright.**
+- 🔭 I’m currently working on **building automation test scripts using Javascript with Cypress.**
 
-- 🌱 I’m currently learning **Javascript and Playwright.**
+- 🌱 I’m currently learning **Javascript and Cypress.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/debasmita-a/](https://github.com/debasmita-a/).
 
